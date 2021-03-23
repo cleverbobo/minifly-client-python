@@ -23,10 +23,8 @@ The hardware platform used in this code is minifly.Related information download 
 5. 开始使用！
 
 # contact information
-If you encounter problems in using, you can contact my wechat “clever_bobo”.I could try to help you~
+If you encounter problems in using, you can contact my wechat “clever_bobo”.I could try to help you~Thanks Wang xiao for your testing!
 
-如果你遇到了什么问题，可以联系我的微信，我可尝试帮你解决解决~
+如果你遇到了什么问题，可以联系我的微信，我可尝试帮你解决解决~感谢王晓老哥的测试！
 
-At last,I would try to use crazyflie-client to control the minifly's UAV,so this code may  not update any more.Thanks Wang xiao for your testing!
 
-最后可能会使用crazyflie的客户端来控制这个飞行器，所以这个代码将不会再更新了，感谢王晓同学的测试！
